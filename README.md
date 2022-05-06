@@ -1,6 +1,5 @@
 
-<!--
-**youzh00/youzh00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 👋 Hi, I’m YOUSSEF ZAHI
 A Software Engineering Student and  Web dev Enthusiast!
 
