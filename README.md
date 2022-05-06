@@ -4,10 +4,10 @@
 <div/>
 
 <div>
-  <h4>- 🔭 I'm working on a school project at the moment. <h4/>
-  <h4>- 🌱I am currently learning everything to do with web development.<h4/>
-  <h4>- 👯 I’m looking to collaborate on web dev projects. <h4/>  
-  <h4> - 📫 How to reach me: youssefzahi.0000@gmail.com <h4/>
+  <h4> 🔭 I'm working on a school project at the moment. <h4/>
+  <h4> 🌱I am currently learning everything to do with web development.<h4/>
+  <h4> 👯 I’m looking to collaborate on web dev projects. <h4/>  
+  <h4> 📫 How to reach me: youssefzahi.0000@gmail.com <h4/>
 <div/>
 <!-- 
 - 🔭 I'm working on a school project at the moment. <br>
