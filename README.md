@@ -4,11 +4,12 @@
 <div/>
 
 
-
+<div>
 - 🔭 I'm working on a school project at the moment.
 - 🌱I am currently learning everything to do with web development.
 - 👯 I’m looking to collaborate on web dev projects.
 - 📫 How to reach me: youssefzahi.0000@gmail.com
+<div/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/youssef-zahi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
