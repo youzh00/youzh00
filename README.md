@@ -19,8 +19,9 @@
   <a href="https://www.linkedin.com/in/youssef-zahi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  ![Visitor Count](https://profile-counter.glitch.me/youzhoo/count.svg)
+  
 </div>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/youzhoo/count.svg) -->
 <div align="center">    
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=youzh00&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 <!--   http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats -->
