@@ -1,6 +1,6 @@
 <div align="center">
   <h2> 👋 Hi, I’m YOUSSEF ZAHI </h2>
-  <h3> A Software Engineering Student and  Web dev Enthusiast! </h3>
+  <h3> A Software Engineering Student and  Web dev Enthusiast ! </h3>
 </div>
 
 <div align="left">
