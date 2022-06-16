@@ -14,6 +14,16 @@
 - 🌱I am currently learning everything to do with web development.<br>
 - 👯 I’m looking to collaborate on web dev projects. <br>
 - 📫 How to reach me: youssefzahi.0000@gmail.com <br> -->
+<div align="left"> 
+  <h3>🛠 Languages and tools :</h3>
+  <h4>💻    Java | JavaScript </h4>
+  <h4>🌐    HTML | CSS | React| Node Js | Express Js | Redux | Bootstrap </h4>
+  <h4>🛢    MySQL | MongoDB  </h4>
+  <h4>🔧   Git | Github </h4>
+  <h4>🚀   Heroku | Netlify </h4>
+  <h4>✍️   Adobe Photoshop | Figma </h4>
+  <h4>🛠️   Visual studio code | IntelliJ IDEA</h4>
+</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/youssef-zahi/">
