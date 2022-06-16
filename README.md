@@ -16,13 +16,13 @@
 - 📫 How to reach me: youssefzahi.0000@gmail.com <br> -->
 <div align="left"> 
   <h3>🛠 Languages and tools :</h3>
-  <h4>💻    Java | JavaScript </h4>
-  <h4>🌐    HTML | CSS | React| Node Js | Express Js | Redux | Bootstrap </h4>
-  <h4>🛢    MySQL | MongoDB  </h4>
-  <h4>🔧   Git | Github </h4>
-  <h4>🚀   Heroku | Netlify </h4>
-  <h4>✍️   Adobe Photoshop | Figma </h4>
-  <h4>🛠️   Visual studio code | IntelliJ IDEA</h4>
+  <h5>💻    Java | JavaScript </h5>
+  <h5>🌐    HTML | CSS | React| Node Js | Express Js | Redux | Bootstrap </h4>
+  <h5>🛢    MySQL | MongoDB  </h5>
+  <h5>🔧   Git | Github </h5>
+  <h5>🚀   Heroku | Netlify </h5>
+  <h5>✍️   Adobe Photoshop | Figma </h5>
+  <h5>🛠️   Visual studio code | IntelliJ IDEA</h5>
 </div>
 
 <div id="badges" align="center">
