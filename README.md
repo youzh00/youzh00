@@ -14,16 +14,25 @@
 - 🌱I am currently learning everything to do with web development.<br>
 - 👯 I’m looking to collaborate on web dev projects. <br>
 - 📫 How to reach me: youssefzahi.0000@gmail.com <br> -->
-<div align="left"> 
-  &nbsp;<h3>🛠 Languages and tools :</h3>
-  &nbsp;<h5>💻   Java | JavaScript </h5>
-  &nbsp;<h5>🌐   HTML | CSS | React| Node Js | Express Js | Redux | Bootstrap </h4>
-  &nbsp;<h5>🛢    MySQL | MongoDB  </h5>
-  &nbsp;<h5>🔧   Git | Github </h5>
-  &nbsp;<h5>🚀   Heroku | Netlify </h5>
-  &nbsp;<h5>✍️   Adobe Photoshop | Figma </h5>
-  &nbsp;<h5>🛠️   Visual studio code | IntelliJ IDEA</h5>
-</div>
+<!-- <div align="left"> 
+  <h3>🛠 Languages and tools :</h3>
+  <h5>💻   Java | JavaScript </h5>
+  <h5>🌐   HTML | CSS | React| Node Js | Express Js | Redux | Bootstrap </h4>
+  <h5>🛢    MySQL | MongoDB  </h5>
+  <h5>🔧   Git | Github </h5>
+  <h5>🚀   Heroku | Netlify </h5>
+  <h5>✍️   Adobe Photoshop | Figma </h5>
+  <h5>🛠️   Visual studio code | IntelliJ IDEA</h5>
+</div> -->
+
+### 🛠 Languages and tools : 
+- 💻 &nbsp; &nbsp;Java | JavaScript
+- 🌐&nbsp; &nbsp; HTML | CSS | React | Node Js | Express Js | Redux | Bootstrap 
+- 🛢 &nbsp;&nbsp; MySQL | MongoDB 
+- 🔧 &nbsp; Git | Github 
+- 🚀 &nbsp; Heroku | Netlify
+- ✍️ &nbsp; Adobe Photshop | Figma
+- 🛠️ &nbsp; Visual studio code | IntelliJ IDEA
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/youssef-zahi/">
