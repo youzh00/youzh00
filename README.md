@@ -15,14 +15,14 @@
 - 👯 I’m looking to collaborate on web dev projects. <br>
 - 📫 How to reach me: youssefzahi.0000@gmail.com <br> -->
 <div align="left"> 
-  <h3>🛠 Languages and tools :</h3>
-  <h5>💻  &nbsp; Java | JavaScript </h5>
-  <h5>🌐  &nbsp; HTML | CSS | React| Node Js | Express Js | Redux | Bootstrap </h4>
-  <h5>🛢   &nbsp; MySQL | MongoDB  </h5>
-  <h5>🔧  &nbsp; Git | Github </h5>
-  <h5>🚀  &nbsp; Heroku | Netlify </h5>
-  <h5>✍️  &nbsp; Adobe Photoshop | Figma </h5>
-  <h5>🛠️  &nbsp; Visual studio code | IntelliJ IDEA</h5>
+  &nbsp;<h3>🛠 Languages and tools :</h3>
+  &nbsp;<h5>💻   Java | JavaScript </h5>
+  &nbsp;<h5>🌐   HTML | CSS | React| Node Js | Express Js | Redux | Bootstrap </h4>
+  &nbsp;<h5>🛢    MySQL | MongoDB  </h5>
+  &nbsp;<h5>🔧   Git | Github </h5>
+  &nbsp;<h5>🚀   Heroku | Netlify </h5>
+  &nbsp;<h5>✍️   Adobe Photoshop | Figma </h5>
+  &nbsp;<h5>🛠️   Visual studio code | IntelliJ IDEA</h5>
 </div>
 
 <div id="badges" align="center">
