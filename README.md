@@ -26,7 +26,7 @@
 </div> -->
 
 ### 🛠 Languages and tools : 
-- 💻 &nbsp; &nbsp;Java | JavaScript
+- 💻 &nbsp; &nbsp;Java | JavaScript | TypeScript
 - 🌐&nbsp; &nbsp; HTML | CSS | React | Node Js | Express Js | Redux | Bootstrap 
 - 🛢 &nbsp;&nbsp; MySQL | MongoDB 
 - 🔧 &nbsp; Git | Github 
