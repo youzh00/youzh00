@@ -7,7 +7,7 @@
   <h4> 🔭 I'm working on a school project at the moment. </h4>
   <h4> 🌱I am currently learning everything to do with web development.</h4>
   <h4> 👯 I’m looking to collaborate on web dev projects. </h4>  
-  <h4> 📫 How to reach me: youssefzahi.0000@gmail.com </h4>
+ 
 </div>
 <!-- 
 - 🔭 I'm working on a school project at the moment. <br>
@@ -34,10 +34,14 @@
 - ✍️ &nbsp; Adobe Photshop | Figma
 - 🛠️ &nbsp; Visual studio code | IntelliJ IDEA
 
+
+<h4> 📫 How to reach me: youssefzahi.0000@gmail.com </h4>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/youssef-zahi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
+  <a href="youssefzahi.0000@gmail.com?subject=Hello, Youssef"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   
 </div>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/youzhoo/count.svg) -->
