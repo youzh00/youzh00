@@ -37,12 +37,13 @@
 
 <h4> 📫 How to reach me: youssefzahi.0000@gmail.com </h4>
 <!-- <div id="badges" align="center" display> -->
+<p align="center">
   <a href="https://www.linkedin.com/in/youssef-zahi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-  <a href="mailto:youssefzahi.0000@gmail.com?subject=Hello, Youssef"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-  
+  <a href="mailto:youssefzahi.0000@gmail.com?subject=Hello, Youssef"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-       badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>&nbsp;
+ </p>
 <!-- </div> -->
 <!-- ![Visitor Count](https://profile-counter.glitch.me/youzhoo/count.svg) -->
 <div align="center">    
