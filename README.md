@@ -38,6 +38,7 @@
 <h4> 📫 How to reach me: youssefzahi.0000@gmail.com </h4>
 <!-- <div id="badges" align="center" display> -->
 <p align="center">
+  <br>
   <a href="https://www.linkedin.com/in/youssef-zahi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
