@@ -35,7 +35,7 @@
 - 🛠️ &nbsp; Visual studio code | IntelliJ IDEA
 
 
-<h4> 📫 How to reach me: youssefzahi.0000@gmail.com </h4>
+<h4> 📫 How to reach me: </h4>
 
 <p align="center">
 <br>
